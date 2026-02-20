@@ -1,8 +1,8 @@
 WSSW is a modified Kunst PCB 
-Kunst: https://github.com/kunsteak/kunst-keyboard
+- Kunst: https://github.com/kunsteak/kunst-keyboard
 I took inspiration from the Kunst, Nine!Nano and the TeenSpirit
-Nine!nano: https://github.com/bsag/nine-nano
-TeenSpirit: https://github.com/kilipan/teenspirit
+- Nine!nano: https://github.com/bsag/nine-nano
+- TeenSpirit: https://github.com/kilipan/teenspirit
 
 Main layout is aptmin 
 
