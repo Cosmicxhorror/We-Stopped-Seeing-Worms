@@ -21,7 +21,7 @@ https://a.co/d/03dYBlTH
 - Battery x2
 - Battery conectors x2:JST ZH 1.5 connectors
 https://a.co/d/04ykd6lP
-- this optional as the battery can be soldered direct to the PCB. would like to change this to a standard JST PH 2.0mm in the future
+-- this is optional as the battery can be soldered direct to the PCB. would like to change this to a standard JST PH 2.0mm in the future
 
 ## Battery Solder orientation
 - Left side: + - | n!n
