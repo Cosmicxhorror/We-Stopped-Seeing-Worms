@@ -32,4 +32,4 @@ The PCB has jumper pads on both sides where the nice!nano can be installed. Thes
 
 - Example here: BRIDGE THE JUMPER PADS https://kriscables.com/ferris-sweep-build-guide/
 
-!(WSSW.jpg)
+
