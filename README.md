@@ -1,13 +1,11 @@
-WSSW is a modified Kunst PCB 
+WSSW is a modified Kunst PCB. I took inspiration from the Kunst, Nine!Nano and the TeenSpirit. 
+Main layout is aptmin. 
 - Kunst: https://github.com/kunsteak/kunst-keyboard
-
-I took inspiration from the Kunst, Nine!Nano and the TeenSpirit
 - Nine!nano: https://github.com/bsag/nine-nano
 - TeenSpirit: https://github.com/kilipan/teenspirit
-
-Main layout is aptmin 
-
-ZMk config: https://github.com/Cosmicxhorror/zmk-config-wssw
+  
+## ZMk config: 
+https://github.com/Cosmicxhorror/zmk-config-wssw
 
 ## Parts list: 
 - Power switch x2: Gikfun Micro Slide Switch Toggle Switch SMD On/Off 7 Pin for Arduino (Pack of 20pcs) AE1073
@@ -25,6 +23,6 @@ https://a.co/d/03dYBlTH
 https://a.co/d/04ykd6lP
 - this optional as the battery can be soldered direct to the PCB. would like to change this to a standard JST PH 2.0mm in the future
 
-Battery Solder orientation
+## Battery Solder orientation
 - Left side: + - | n!n
 - Right side: n!n |  - +
