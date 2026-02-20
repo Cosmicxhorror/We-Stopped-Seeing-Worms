@@ -19,7 +19,7 @@ https://a.co/d/03dYBlTH
 - Choc hotswap sockets x16
 - Nice!nano x2
 - Battery x2
-- Battery conectors x2:JST ZH 1.5 connectors
+- Battery conectors x2: JST ZH 1.5 connectors
 https://a.co/d/04ykd6lP
 -- this is optional as the battery can be soldered direct to the PCB. would like to change this to a standard JST PH 2.0mm in the future
 
