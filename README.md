@@ -25,5 +25,5 @@ https://a.co/d/04ykd6lP
 - this optional as the battery can be soldered direct to the PCB. would like to change this to a standard JST PH 2.0mm in the future
 
 Battery Solder orientation
-Left side: + - | n!n
-Right side: n!n |  - +
+- Left side: + - | n!n
+- Right side: n!n |  - +
