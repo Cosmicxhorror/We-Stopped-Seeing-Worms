@@ -4,7 +4,7 @@ Main layout is aptmin.
 - Nine!nano: https://github.com/bsag/nine-nano
 - TeenSpirit: https://github.com/kilipan/teenspirit
   
-## ZMk config: 
+## ZMK config: 
 https://github.com/Cosmicxhorror/zmk-config-wssw
 
 ## Parts list: 
@@ -24,8 +24,8 @@ https://a.co/d/04ykd6lP
 -- this is optional as the battery can be soldered direct to the PCB. would like to change this to a standard JST PH 2.0mm in the future
 
 ## Battery orientation
-- Left side: + - | n!n
-- Right side: n!n |  - +
+- Left side: + - | n!n |USB ->
+- Right side: <- USB| n!n |  - +
 
 ## Soldering the PCB
 The PCB has jumper pads on both sides where the nice!nano can be installed. These jumpers need to be connected with solder on the oposite side of where the n!n is installed. This would be on the same side where the hotswap socket are installed. 
