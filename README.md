@@ -26,3 +26,8 @@ https://a.co/d/04ykd6lP
 ## Battery orientation
 - Left side: + - | n!n
 - Right side: n!n |  - +
+
+## Soldering the PCB
+The PCB has jumper pads on both sides where the nice!nano can be installed. These jumpers need to be connected with solder on the oposite side of where the n!n is installed. This would be on the same side where the hotswap socket are installed. 
+
+- Example here: BRIDGE THE JUMPER PADS https://kriscables.com/ferris-sweep-build-guide/
