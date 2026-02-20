@@ -34,4 +34,4 @@ The PCB has jumper pads on both sides where the nice!nano can be installed. Thes
 
 
 <img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/cfde9bdf-b1bf-49c3-ac20-29990a3359d3" />
-Image is of the WSSW with the N7 (negative 7 degree) case. Keycaps are Lamé PBS from aliexpress, had to buy two sets to get the thumb pinky setup for both. Track ball is a ThumbsUp trackball v3.
+Image is of the WSSW with the N7 (negative 7 degree) case. Keycaps are Lamé PBT from aliexpress, had to buy two sets to get the thumb pinky setup for both. Switches are choc v1 Nocturnals. Track ball is a ThumbsUp trackball v3.
